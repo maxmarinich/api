@@ -1,0 +1,23 @@
+[
+  {
+    "id": "en",
+    "name": "English (United States)",
+    "primary": true
+  },
+  {
+    "id": "de",
+    "name": "German (Germany)"
+  },
+  {
+    "id": "gr",
+    "name": "Greece (Greek)"
+  },
+  {
+    "id": "ca",
+    "name": "English (Canada)"
+  },
+  {
+    "id": "ru",
+    "name": "Russian (Russia)"
+  }
+]

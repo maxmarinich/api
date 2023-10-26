@@ -1,0 +1,23 @@
+[
+  {
+    "id": "USD",
+    "name": "US Dollar (USD)",
+    "primary": true
+  },
+  {
+    "id": "RUB",
+    "name": "Russian Rouble (RUB)"
+  },
+  {
+    "id": "TRY",
+    "name": "Turkish Lira (TRY)"
+  },
+  {
+    "id": "TJS",
+    "name": "Tajikistani ruble (TJS)"
+  },
+  {
+    "id": "EUR",
+    "name": "Euro (EUR)"
+  }
+]
